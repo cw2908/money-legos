@@ -45,6 +45,6 @@
     "money-legos"
   ],
   "dependencies": {
-    "@openzeppelin/contracts": "^2.5.0"
+    "openzeppelin-solidity": "cw2908/openzeppelin-contracts#sol-5"
   }
 }
